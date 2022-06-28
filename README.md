@@ -12,7 +12,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Lunix için:
 
-cd kodluyoruzilkrepo code.
+cd kodluyoruz-CSS code.
 
 
 ## Contributing
@@ -24,4 +24,4 @@ Pull requestler kabul edilir.Büyük değişikler için ,lütfen daha önce neyi
 
 
 
-[Ptika.dev sayfam](https://app.patika.dev/bhrzdmr)
+[Patika.dev sayfam](https://app.patika.dev/bhrzdmr)
